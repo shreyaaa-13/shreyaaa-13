@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/YOUR_CUSTOM_BANNER.png" alt="Shreya Jadhav Banner" width="100%">
+<img src="https://i.postimg.cc/qMKVF8CC/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Shreya Jadhav Banner" width="100%">
 
 <h1 align="center">Hi, I'm Shreya Jadhav 👋</h1>
 <p align="center">
