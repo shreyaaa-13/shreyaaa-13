@@ -17,7 +17,7 @@ AI & Data Science Student | Passionate about Machine Learning, AI Ethics & Real-
 ## 🛠️ Technologies I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,react,nodejs,mongodb,java,figma,vscode,github,git,linux,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,react,nodejs,mongodb,java,figma,vscode,github,git,linux,sql,numpy,pandas,scikitlearn,pytorch,jupyter,r" />
 </p>
 
 ---
