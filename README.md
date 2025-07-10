@@ -47,7 +47,3 @@ AI & Data Science Student | Passionate about Machine Learning, AI Ethics & Real-
 If you have opportunities, projects, or ideas—reach out! I love collaborating and learning new technologies with purpose.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaaa-13&show_icons=true&theme=radical" />
-</p>
