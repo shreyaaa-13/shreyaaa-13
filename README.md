@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Shreya Jadhav 👋</h1>
 <p align="center">
 AI & Data Science Student | Passionate about Machine Learning, AI Ethics & Real-World Data Applications
-</p>
+</p> 
 
 <p align="center">
   <a href="mailto:shreyapj2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
