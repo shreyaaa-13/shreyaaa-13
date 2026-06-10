@@ -35,10 +35,8 @@ AI & Data Science Student | Passionate about Machine Learning, AI Ethics & Real-
 
 ## 📌 Projects & Contributions
 
-- ✅ Credit Risk Prediction using AI (Geldium Internship)
-- ✅ Todo List App using React & Firebase
-- ✅ Face Recognition & Liveness Detection System
-- ✅ Secure Query Ticket System for Banks using Voice/Video
+- ✅ Credit Risk Prediction using AI
+
 
 ---
 
